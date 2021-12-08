@@ -3,6 +3,7 @@ Phase 1
  o Shall install the rasphian OS
  o Shall enable SPI and 12C I/O
  o Shall install and setup the sw tool
+ -Select three unit conversion (example: miles to km, LB to kg, calclus to fahrenheit
  
  • Shall demonstrate basic understanding of Python coding 
  o Create simple unit conversion program 
@@ -11,6 +12,8 @@ Phase 1
  o Needs loop till user inputs "quits'
  o Needs to prompt user to select conversion type and ask for input
  o base structure
+ -how often will it blink?
+ -what color will LED
  
  • Shall demonstrate basic understanding of Raspberry Pi I/O 
  o Configure LED on breadboard 
@@ -18,6 +21,8 @@ Phase 1
  o 220Ω Resistor
  o GPIO #26 -> GND
  o LED Every 2 seconds
+  -how often will it blink?
+ -what color will LED
  
  • Shall demonstrate basic understanding of Pygame 
  o Add a random rectangle to the center of the game screen 
